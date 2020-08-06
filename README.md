@@ -132,12 +132,14 @@ cp Makefile.config.example Makefile.config
 
 ```shell
 #USE_CUDNN := 1
+#WITH_PYTHON_LAYER := 1
 ```
 
 为：
 
 ```shell
 USE_CUDNN := 1
+WITH_PYTHON_LAYER := 1
 ```
 
 - 修改：
